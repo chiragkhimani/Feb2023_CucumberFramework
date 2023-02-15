@@ -1,4 +1,4 @@
-package com.autoamtion.steps;
+package com.automation.steps;
 
 import com.automation.utils.DriverUtils;
 import com.automation.utils.PropertyReader;
